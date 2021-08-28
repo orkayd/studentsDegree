@@ -21,12 +21,12 @@ namespace AKUc101
 
                 if (De >= 60)
                 {
-                    Console.WriteLine(Name + "" + De + "" + "Passed");
+                    Console.WriteLine( "Passed");
 
                 }
                 else
                 {
-                    Console.WriteLine(Name +""+ De+ ""+ "Failed");
+                    Console.WriteLine( "Failed");
                 }
             }
 
